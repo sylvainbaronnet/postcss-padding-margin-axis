@@ -1,7 +1,7 @@
 {
   "name": "postcss-padding-margin-axis",
   "version": "1.0.0",
-  "description": "Postcss plugin for paddingVertical / paddingHorizontal / marginVertical / marginHorizontal",
+  "description": "Postcss plugin for padding & margin axis shorthand",
   "keywords": [
     "postcss",
     "css",
