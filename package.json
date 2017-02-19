@@ -1,0 +1,39 @@
+{
+  "name": "postcss-padding-margin-axis",
+  "version": "1.0.0",
+  "description": "Postcss plugin for paddingVertical / paddingHorizontal / marginVertical / marginHorizontal",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin"
+  ],
+  "author": "Sylvain Baronnet <sylvain@studio.gd>",
+  "maintainers": [
+    "Sylvain Baronnet <sylvain@studio.gd> (http://studio.gd)"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvainbaronnet/postcss-padding-margin-axis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sylvainbaronnet/postcss-padding-margin-axis/issues"
+  },
+  "homepage": "https://github.com/sylvainbaronnet/postcss-padding-margin-axis",
+  "dependencies": {
+    "postcss": "^5.2.14"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-mocha": "^3.0.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  }
+}
